@@ -60,6 +60,24 @@ Future prospects include adding a document scanner , image modifier (format conv
     
 - To contribute to this project, go through the step-by-step guidelines provided below.
 
+## Let's Get Start 🤩
+
+### Step 1 :
+##### First **star** and **fork** the project.
+![star and fork](https://user-images.githubusercontent.com/76570320/115134052-a60ef200-a02a-11eb-9130-2fad9784363d.png)
+```
+This is the Upstream Repository.
+```
+
+### Step 2 :
+##### In your Github, a copy of the above repository will be created after forking the project.
+![forked repo](https://user-images.githubusercontent.com/76570320/115134315-bd4edf00-a02c-11eb-9263-8a177eaa1d83.png)
+```
+This is the Remote Repository.
+```
+
+
+
 ## Note
 - Issues will be assigned on a first come, first serve basis. You just have to comment on the issue, asking to be assigned( Optional: Explain briefly about your implementation) .
 - It will be highly appreciated if you add screenshot/video of the changes while making PR.
