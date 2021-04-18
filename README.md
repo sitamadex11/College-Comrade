@@ -50,13 +50,15 @@ Future prospects include adding a document scanner , image modifier (format conv
 
 ## Contributing Guidelines
 
-- To contribute to this project, go through the step-by-step guidelines provided [here.](https://github.com/Developer-Student-Clubs-VSSUT-Burla/College-Comrade/blob/master/CONTRIBUTING.md) 
 - Strictly abide by the following points while contributing:
     * Make sure you do not copy code from external sources because that work will not be considered.
     * Plagiarism is strictly not allowed.
     * You can only work on issues that have been assigned to you.
     * If you want to contribute, we prefer that you create an issue before making a PR and link your  PR to that issue.
     * If you have modified/added code work, make sure that the app is running successfully before submitting your PR.
+    * Before submitting the PR please make sure that you are up-to-date with **upstream/master** branch.
+    
+- To contribute to this project, go through the step-by-step guidelines provided below.
 
 ## Note
 - Issues will be assigned on a first come, first serve basis. You just have to comment on the issue, asking to be assigned( Optional: Explain briefly about your implementation) .
